@@ -4,7 +4,7 @@ public class main2 {
     public static void main(String[] args){
 
         int pilihan;
-        String Username = "gilangs";
+        String Username = "gilangsa";
         String Password = "1234";
         String Nama = "Gilang saputra";
         long NIM = 202410370110117l;
